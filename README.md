@@ -1,6 +1,9 @@
 # Challenge_UncharTECH
 # Setting up the system : installing all the necessary packages
-To use the script you need to install the nltk package. For Mac/Unix run on your terminal: '''sudo pip install -U nltk''' and for Windows run: pip install nltk
+To use the script you need to install the nltk package. 
+For Mac/Unix run on your terminal: 
+```sudo pip install -U nltk ```
+and for Windows: ``` run: pip install nltk ```
 
 # About the script
 
