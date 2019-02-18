@@ -1,6 +1,6 @@
 # Challenge_UncharTECH
 # Setting up the system : installing all the necessary packages
-To use the script you need to install the nltk package. For Mac/Unix run on your terminal: sudo pip install -U nltk and for Windows run: pip install nltk
+To use the script you need to install the nltk package. For Mac/Unix run on your terminal: '''sudo pip install -U nltk''' and for Windows run: pip install nltk
 
 # About the script
 
@@ -8,5 +8,5 @@ The module regex is mainly used in the script. Basically we open the search Wiki
 
 # Executing the script
 
-To run the script, run python Challenge.py and the result for all pages is stored on Contenu_principal.txt. 
+To run the script, run  python Challenge.py on your terminal and the result for all pages is stored on Contenu_principal.txt. 
 
