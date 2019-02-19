@@ -11,7 +11,7 @@ The module regex is mainly used in the script. Basically we open the search Wiki
 
 # Executing the script
 
-To run the script, run ``` python Challenge.py ``` on your terminal and the result for all pages is stored on ```Contenu_principal.txt```. 
+To run the script, run ``` python Challenge.py ``` on your terminal and each result for a keyword is stored on ```keyword.txt```. 
 
 Infos concerning my machine: 
 ```CPU 1,6 GHz Intel Core i5```
