@@ -20,4 +20,5 @@ Infos concerning my machine:
 
 ```APPLE SSD AP0256H```
 
-Time indicator on my machine to execute the script: 216 seconds
+Time indicator on my machine to execute the script: about 110 seconds
+
