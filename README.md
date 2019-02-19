@@ -13,3 +13,8 @@ The module regex is mainly used in the script. Basically we open the search Wiki
 
 To run the script, run ``` python Challenge.py ``` on your terminal and the result for all pages is stored on ```Contenu_principal.txt```. 
 
+Infos concerning my machine: 
+CPU 1,6 GHz Intel Core i5
+RAM 4 Go 1600 MHz DDR3
+APPLE SSD AP0256H
+Time indicator on my machine to execute the script: 216 seconds
