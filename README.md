@@ -1,4 +1,4 @@
-# Challenge_UncharTECH
+# Challenge
 # Setting up the system : installing all the necessary packages
 To use the script you need to install the nltk package. 
 For Mac/Unix run on your terminal: 
