@@ -11,7 +11,7 @@ The module regex is mainly used in the script. Basically we open the search Wiki
 
 # Executing the script
 
-To run the script, run ``` python Challenge.py ``` on your terminal and each result for a keyword is stored on ```keyword.txt```. 
+To run the script, run ``` python wiki_scrapping.py ``` on your terminal and each result for a keyword is stored on ```keyword.txt```. 
 
 Infos concerning my machine: 
 ```CPU 1,6 GHz Intel Core i5```
